@@ -1,0 +1,9 @@
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\bin\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.deps.json
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\bin\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.dll
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\bin\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.pdb
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.csprojAssemblyReference.cache
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.AssemblyInfoInputs.cache
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.AssemblyInfo.cs
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.dll
+C:\Dev\GitHub\TesteConstrumarket\ConstruMarket.Teste\src\ConstruMarket.Teste.Domain\obj\Debug\netcoreapp3.1\ConstruMarket.Teste.Domain.pdb

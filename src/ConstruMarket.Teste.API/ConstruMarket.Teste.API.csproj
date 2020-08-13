@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConstruMarket.Teste.DataAccess\ConstruMarket.Teste.DataAccess.csproj" />
+    <ProjectReference Include="..\ConstruMarket.Teste.Domain\ConstruMarket.Teste.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>
